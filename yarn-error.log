@@ -1,0 +1,26 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\yarn\bin\yarn.js remove expo-image-picker
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\Achilles\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\xampp\php;C:\composer;C:\Users\Achilles\scoop\shims;C:\Users\Achilles\AppData\Local\Microsoft\WindowsApps;C:\Users\Achilles\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Achilles\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\Achilles\AppData\Local\Android\Sdk\emulator;;C:\Program Files\Azure Data Studio\bin;C:\Users\Achilles\AppData\Roaming\Composer\vendor\bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.17.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, copyfile 'C:\Users\Achilles\AppData\Local\Yarn\Cache\v6\npm-@babel-parser-7.19.6-integrity\node_modules\@babel\parser\bin\babel-parser.js' -> 'D:\My work\Freelancer\saDiscounts\node_modules\@babel\parser\bin\babel-parser.js'
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
